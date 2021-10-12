@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @alu0101123677
+- 👋 Hi, I’m Bruno Lorenzo Arroyo Pedraza
+- Studying computer engineering at the La Laguna University
