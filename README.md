@@ -19,7 +19,12 @@ I'm a student of the La Laguna's University, studying the degree in Computer Eng
 
 ## Study
 
+#### Languages:
+
 ![typescript](https://img.shields.io/badge/-typescript-blue?style=plastic&logo=typescript&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+#### utilities:
 
 
 
