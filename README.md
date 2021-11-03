@@ -32,6 +32,6 @@ I'm a student of the La Laguna's University, studying the degree in Computer Eng
 
 - D&D
 
-- READ
+- Read
 
 
