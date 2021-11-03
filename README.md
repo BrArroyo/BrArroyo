@@ -11,15 +11,15 @@ I'm a student of the La Laguna's University, studying the degree in Computer Eng
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101123677&theme=gotham)](https://github.com/alu0101123677)
 
 
-### Languages and Frameworks I know 
+## Languages and Frameworks I know 
 
 #### Languages:
 
 ![c++](https://img.shields.io/badge/-C++-blue?style=plastic&logo=cc&logoColor=white)
 
-### Study:
+## Study
 
-
+![typescript](https://img.shields.io/badge/-typescript-blue?style=plastic&logo=typescript&logoColor=white)
 
 
 
