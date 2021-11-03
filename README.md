@@ -30,7 +30,7 @@ I'm a student of the La Laguna's University, studying the degree in Computer Eng
 
 ## Hobbies:
 
-- D&D <<iframe src="https://giphy.com/embed/ejyRYttU1toqHjNZOA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sticker-dnd-dungeons-and-dragons-ejyRYttU1toqHjNZOA">via GIPHY</a></p> width="25px">
+- D&D <iframe src="https://giphy.com/embed/ejyRYttU1toqHjNZOA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sticker-dnd-dungeons-and-dragons-ejyRYttU1toqHjNZOA">via GIPHY</a></p> width="25px">
 
 - Read
 
