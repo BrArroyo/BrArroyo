@@ -5,6 +5,6 @@ I'm a student of the La Laguna's University, studying the degree in Computer Eng
 
 ### Github Stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alu0101123677&count_private=true&show_icons=true&theme=radical)](hhttps://github.com/alu0101123677/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alu0101123677&count_private=true&show_icons=true&theme=dark)](hhttps://github.com/alu0101123677/github-readme-stats)
 
 
