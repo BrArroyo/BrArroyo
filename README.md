@@ -4,7 +4,7 @@
 
 I'm a student of the La Laguna's University, studying the degree in Computer Engineering.
 
-### Github Stats 
+## Github Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alu0101123677&count_private=true&show_icons=true&theme=gotham)](https://github.com/alu0101123677)
 
@@ -27,5 +27,11 @@ I'm a student of the La Laguna's University, studying the degree in Computer Eng
 #### Utilities:
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+
+## Hobbies:
+
+- D&D
+
+- READ
 
 
