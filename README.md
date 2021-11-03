@@ -15,7 +15,7 @@ I'm a student of the La Laguna's University, studying the degree in Computer Eng
 
 #### Languages:
 
-![c++](https://img.shields.io/badge/-C++-blue?style=plastic&logo=c-plus-plus&logoColor=white)
+![c++](https://img.shields.io/badge/-C++-blue?style=plastic&logo=c%2B%2B&logoColor=white)
 
 ## Study
 
