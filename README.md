@@ -1,4 +1,5 @@
-## 👋 Hi, I’m Bruno Lorenzo Arroyo Pedraza
+## Hi, I’m Bruno Lorenzo Arroyo Pedraza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 
 I'm a student of the La Laguna's University, studying the degree in Computer Engineering.
