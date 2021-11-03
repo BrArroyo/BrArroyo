@@ -22,6 +22,7 @@ I'm a student of the La Laguna's University, studying the degree in Computer Eng
 #### Languages:
 
 ![typescript](https://img.shields.io/badge/-typescript-blue?style=plastic&logo=typescript&logoColor=white)
+![ruby](https://img.shields.io/badge/-ruby-red?style=plastic&logo=ruby&logoColor=white)
 
 #### utilities:
 
