@@ -18,7 +18,6 @@ I'm a student of the La Laguna's University, studying the degree in Computer Eng
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 
-[comment]: <> ()
+[comment]: <> (![docker](https://img.shields.io/badge/-docker-007ACC?style=plastic&logo=docker&logoColor=white))
 
-![VSCode](https://img.shields.io/badge/-docker-007ACC?style=plastic&logo=docker&logoColor=white)
 
