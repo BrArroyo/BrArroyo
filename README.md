@@ -12,7 +12,7 @@ I'm a student of the La Laguna's University, studying the degree in Computer Eng
 ![JavaScript](https://img.shields.io/badge/-javascript-blue?style=plastic&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-typescript-blue?style=plastic&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-yellow?style=plastic&logo=python&logoColor=white)
-![vue](https://img.shields.io/badge/-vue-blue?style=plastic&logo=vue&logoColor=white)
+![vue](https://img.shields.io/badge/-Vue-blue?style=plastic&logo=vue&logoColor=white)
 ![vuetify](https://img.shields.io/badge/-vuetify-blue?style=plastic&logo=vuetify&logoColor=white)
 ![angular](https://img.shields.io/badge/-angular-red?style=plastic&logo=angular&logoColor=white)
 ![docker](https://img.shields.io/badge/-docker-blue?style=plastic&logo=docker&logoColor=white)
