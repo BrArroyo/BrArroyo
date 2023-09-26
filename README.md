@@ -1,6 +1,6 @@
 ## Hi, I’m Bruno Lorenzo Arroyo Pedraza 
 
-I'm a student of the La Laguna's University, studying the degree in Computer Engineering.
+I'm a Software engineer, graduate of La Laguna's University with a degree in Computer Engineering.
 
 ## Languages and Frameworks I know
 
